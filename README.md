@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @masafumi330
-- 👀 I’m interested in Machine Learning, Data science.
-- 🌱 I’m currently learning Machine Learning, Data science on kaggle, SIGNATE, atmcup.
-- 💞️ I’m looking to collaborate on kaggle.
-- 📫 How to reach me 
+- 👀 I’m a Backend engineer.
+- 🌱 I’m currently Golang, React, Next.js.
+- 💞️ I’m looking to collaborate on Web application.
+- 📫 About me
   - [twitter](https://twitter.com/masafumi330)
-  - [kaggle](https://www.kaggle.com/masafumimisawa)
+  - [Blog](https://blog-five-flame-48.vercel.app/)
 
 <!---
 masafumi330/masafumi330 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
