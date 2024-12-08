@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://twitter.com/masafumi330**
 
-<details><summary>参画プロジェクト内容</summary>
+<details><summary>参画プロジェクト内容（最終更新：2024/12/8）</summary>
 
 # 【正社員】アーティスト向け音楽流通サービス「TuneCore Japan」の開発・運用
 ## プロダクト概要
