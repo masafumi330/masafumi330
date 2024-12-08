@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **software design, Go, DDD, typescript, React.**
 
-- 📝 I regularly write articles on [https://qiita.com/masafumi330](https://qiita.com/masafumi330)
+- 📝 I regularly write articles on [https://qiita.com/masafumi330](https://qiita.com/masafumi330), https://note.com/masafumi_misawa/
 
 - 💬 Ask me about **Go, Clean Archetecture and DDD.**
 
